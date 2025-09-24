@@ -36,5 +36,5 @@ Ensure that the navigation feels seamless (SPA-like) using Next.js’ built-in r
 <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/c32f4b93-8d2f-48c1-9c99-fd972069e518" />
 
 // user / history
-<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/6a67ae37-292f-40a7-8957-1524e10d5eff" />
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/3d0d91f6-fdf6-4a74-b537-dee53dff0c3c" />
 
